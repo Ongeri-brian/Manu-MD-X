@@ -7,12 +7,12 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Manu-MD&XF1EWC6I#iD6cf_Z-qnkprVT8zDzcAYMB9BtA77lZDzH5YICDPT0",
       "required": true
     },  
 
     "MODE": {
-      "description": "Put worktype public or private or groups.",
+      "description": "public",
       "required": true
     }   
 },
